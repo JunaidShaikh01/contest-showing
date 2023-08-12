@@ -3,6 +3,9 @@ const imageUrls = [
   "https://plus.unsplash.com/premium_photo-1678566153919-86c4ba4216f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60",
   "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60",
   "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+  "https://unsplash.com/photos/VzJjPuk53sk",
+  "https://unsplash.com/photos/FCHlYvR5gJI",
+  "https://unsplash.com/photos/kpGj50PWAG0",
 ];
 
 const url = "https://kontests.net/api/v1/all";
